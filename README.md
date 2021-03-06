@@ -1,2 +1,2 @@
-# C-for-Everyone-Programming-Fundamentals
+# Coursera C-for-Everyone-Programming-Fundamentals 
 solutions for assignments
